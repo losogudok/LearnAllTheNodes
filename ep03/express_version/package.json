@@ -1,0 +1,21 @@
+{
+  "name": "really-brief-express",
+  "description": "A Really Brief ExpressJS Demo",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Ethan Garofolo",
+  "main": "./server.js",
+  "maintainers": [
+    {
+      "name": "Ethan Garofolo",
+      "email": "ethan@bigohstudios.com"
+    }
+  ],
+  "dependencies": {
+    "express": "4.x"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
+}
